@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1B89CD-1B25-401A-B3E4-209F267BAD05}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore.models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1B89CD-1B25-401A-B3E4-209F267BAD05}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1B89CD-1B25-401A-B3E4-209F267BAD05}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore.models\\viewmodels\\articulovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1B89CD-1B25-401A-B3E4-209F267BAD05}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\viewmodels\\articulovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B49F2A8-CB0E-43A8-938E-504A9D579FC0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore.accesodatos\\data\\inicializador\\iinicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B49F2A8-CB0E-43A8-938E-504A9D579FC0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\inicializador\\iinicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B49F2A8-CB0E-43A8-938E-504A9D579FC0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B49F2A8-CB0E-43A8-938E-504A9D579FC0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B49F2A8-CB0E-43A8-938E-504A9D579FC0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore.accesodatos\\data\\inicializador\\inicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B49F2A8-CB0E-43A8-938E-504A9D579FC0}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\inicializador\\inicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1B89CD-1B25-401A-B3E4-209F267BAD05}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore.models\\listapaginada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1B89CD-1B25-401A-B3E4-209F267BAD05}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\listapaginada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|c:\\users\\edins.edinson\\onedrive\\escritorio\\curso net8 mvc\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ABE4CF6-5C5F-4456-93A7-E24F7379BB60}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:03:01.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InicializadorBD.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Inicializador\\InicializadorBD.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Inicializador\\InicializadorBD.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Inicializador\\InicializadorBD.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Inicializador\\InicializadorBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:22:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInicializadorBD.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Inicializador\\IInicializadorBD.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Inicializador\\IInicializadorBD.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Inicializador\\IInicializadorBD.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Inicializador\\IInicializadorBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:21:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\appsettings.json",
+              "RelativeToolTip": "BlogCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T17:03:26.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:37:46.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:13:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloVM.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "RelativeDocumentMoniker": "BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "RelativeToolTip": "BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:54:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "BlogCore.Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.Models\\Articulo.cs",
+              "RelativeToolTip": "BlogCore.Models\\Articulo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:53:54.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:50:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:48:35.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:46:07.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T20:22:08.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T19:35:32.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaPaginada.cs",
+              "DocumentMoniker": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.Models\\ListaPaginada.cs",
+              "RelativeDocumentMoniker": "BlogCore.Models\\ListaPaginada.cs",
+              "ToolTip": "C:\\Users\\edins.EDINSON\\OneDrive\\Escritorio\\Curso net8 MVC\\BlogCore\\BlogCore.Models\\ListaPaginada.cs",
+              "RelativeToolTip": "BlogCore.Models\\ListaPaginada.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:35:43.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

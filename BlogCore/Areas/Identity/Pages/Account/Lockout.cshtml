@@ -1,0 +1,13 @@
+﻿@page
+@model LockoutModel
+@{
+    ViewData["Title"] = "Usuario Bloqueado";
+}
+
+<header>
+    <div class="text-center">
+        <img src="~/imagenes/no-autorizado.png" class="img-fluid" width="150" />
+        <h1 class="text-danger">@ViewData["Title"]</h1>
+        <p class="text-danger">La cuenta esta bloqueada, Por favor intente mas tarde.</p>
+    </div>
+</header>
