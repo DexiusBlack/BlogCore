@@ -1,4 +1,3 @@
-readme_content = """
 # BlogCore
 
 Este proyecto es una aplicación web desarrollada con .NET 9 que implementa un sistema de blog completo. La solución integra tecnologías modernas tanto en el frontend como en el backend, y sigue buenas prácticas de desarrollo como el patrón MVC y el uso de `Entity Framework Core` con `Code First`. También se ha desplegado exitosamente en **Azure App Service** con una base de datos SQL migrada a la nube.
